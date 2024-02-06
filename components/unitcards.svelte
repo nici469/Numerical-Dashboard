@@ -71,7 +71,7 @@
       {value>0?value.toFixed(0):0}
     </div>
     <div class="absolute h-[1.75rem] top-[12.44rem] w-[100%] text-center  text-[1.5rem] font-[600rem]">
-      MW
+      UNITS
     </div>
     <div class="absolute h-[3.19rem] w-[100%] text-center top-[15.56rem] text-[2.25rem] font-[Raleway] font-[600]">
         {name}
